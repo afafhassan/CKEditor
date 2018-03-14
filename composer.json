@@ -1,5 +1,5 @@
 {
-    "name": "egeloen/ckeditor",
+    "name": "egeloen/ckeditor-bundle",
     "type": "symfony-bundle",
     "description": "CKEditor for Symfony 4.x",
     "keywords": ["form"],
